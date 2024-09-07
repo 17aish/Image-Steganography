@@ -19,6 +19,6 @@ Here in this code we give image and text to be concealed in an image and press *
 
 ## How to run?
 
- pip install Pillow==7.2.0 
- pip install tk==0.1.0
- python ImageS.py
+ - pip install Pillow==7.2.0 
+ - pip install tk==0.1.0
+ - python ImageS.py
